@@ -1,0 +1,2 @@
+# classprojects
+Assignments for students
